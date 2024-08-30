@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{0C5DAA96-2FF9-417A-B28E-62B9A4A0004C}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeatherApp/Services/TileService.cs">
+    <Files>
+      <File FileName="WeatherApp/Program.cs" Line="211" Column="42" />
+      <File FileName="WeatherApp/WeatherData.cs" Line="138" Column="19" />
+      <File FileName="WeatherApp/Services/WeatherService.cs" Line="18" Column="14" />
+      <File FileName="WeatherApp/Models/GeoData.cs" Line="11" Column="1" />
+      <File FileName="WeatherApp/appsettings.json" Line="12" Column="48" />
+      <File FileName="WeatherApp/Models/AirPollutionData.cs" Line="37" Column="27" />
+      <File FileName="WeatherApp/Services/GeoService.cs" Line="35" Column="10" />
+      <File FileName="WeatherApp/Services/AirPollutionService.cs" Line="36" Column="1" />
+      <File FileName="WeatherApp/Models/TileRequest.cs" Line="11" Column="1" />
+      <File FileName="WeatherApp/Services/TileService.cs" Line="5" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WeatherApp" expanded="True">
+            <Node name="WeatherApp" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WeatherApp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
